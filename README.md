@@ -27,6 +27,8 @@ Superman has been added!
 
 Time Complexity:
 - 
+```
 Time Complexity: O(nlogn) 
-Space Complexity: O(n) 
+Space Complexity: O(n)
+```
 
