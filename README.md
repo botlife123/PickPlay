@@ -6,7 +6,7 @@ Repoistory Layout:
 - 
 - main.py
 - movie.py
-- recommended.py
+- recommend.py
 - users_.py
 - test_pickplay.py
 
