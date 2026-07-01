@@ -40,7 +40,7 @@ class Recommended:
 
                 continue
 
-            if item.title in self.user.filter_genre: #if the user filted out the genre the item it will skip it
+            if item.genre in self.user.filter_genre: #if the user filted out the genre the item it will skip it
 
                 continue
 
@@ -52,7 +52,8 @@ class Recommended:
 
         while req_heap:
 
-            result = heapq.heappop(req_heap) #it pops the highest item from the heap 
+            popped = heapq.heappop(req_heap) #it pops the highest item from the heap 
+            item = popped[2] #the item is being retrieved from the tuple
             result.append(item) #it adds an item to the results in order(highest goes first then lowest)
 
         return result

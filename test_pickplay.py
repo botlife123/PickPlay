@@ -102,6 +102,7 @@ def filterTest():
         print("Test 3 did not pass and the watched and dnf feature does not work works")
 
 
+#displays the results if they passed or not 
 rankTest()
 genreTest()
 filterTest()
