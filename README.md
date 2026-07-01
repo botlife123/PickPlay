@@ -12,7 +12,7 @@ Repoistory Layout:
 
 Run Instructions: 
 - 
-- Python 3 main.py
+- Python3 main.py
 
 Sample Output:
 - 
