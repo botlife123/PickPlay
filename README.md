@@ -16,7 +16,7 @@ Run Instructions:
 
 Sample Output:
 - 
-Enter in your choices.1
+Enter in your choices: 1
 Title: Superman
 Genre: action
 Item ID: 001
