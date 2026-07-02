@@ -20,7 +20,6 @@ Sample Output:
 Enter in your choices: 1
 Title: Superman
 Genre: action
-Item ID: 001
 Item Type: movie
 Superman has been added!
 ```
